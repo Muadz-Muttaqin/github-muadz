@@ -6,7 +6,7 @@ muadz_position= random.randint(1,4)
 Nama = 'Muadz Muttaqin'
 Usia = 19
 print ('*************************')
-print (f'**{welcome_message}**')
+print (f'**{welcome_message}**')# Output Welcome
 print ('*************************')
 
 print(f'''
